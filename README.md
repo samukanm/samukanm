@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Samuel Nunes, sou um Programador Front End, atualmente estou aprendendo e criando projetos como:
+Eu sou o Samuel Nunes, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 
 HTML
 
