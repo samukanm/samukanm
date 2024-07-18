@@ -6,7 +6,7 @@ HTML
 
 CSS
 
-e iniciando o aprendizado de JavaScript e React.
+e iniciando o aprendizado de JavaScript, noda.js e React.
 
 
 
